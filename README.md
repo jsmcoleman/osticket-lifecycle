@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle4</h1>
+<h1>osTicket - Ticket Lifecycle</h1>
 This tutorial outlines the essence of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
@@ -17,34 +17,42 @@ This tutorial outlines the essence of the open-source help desk ticketing system
 
 <h2>List of Prerequisites</h2>
 
-- Configure roles, departments, and teams
-- Allow anyone to create tickets
-- Configure Agents and users
-- Configure SLA
-- Item 5
+- Create, triage and solve tickets
+- Practice SLA
+- Resolve common ticket topics
 
-<h2>Installation Steps</h2>
+<h2>Ticket Resolution Practice</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/73NfncP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Some examples of the types of tickets that may be submitted.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uI5lupF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+An example of priority and department assignment. An agent assigned a hardware refresh inquiry as SEV-C and low priority.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zOvmV0T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Another example of priority and department assignment. An agent was assigned a high priority ticket about and entire department not having access to certain software.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/tFJnvkX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+An admin employee resolving a ticket and providing a response to the customer.
+</p>
+<br />
+
+
