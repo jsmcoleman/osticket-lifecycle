@@ -17,7 +17,7 @@ This tutorial outlines the essence of the open-source help desk ticketing system
 
 <h2>List of Prerequisites</h2>
 
-- Create, triage and solve tickets
+- Create, sort and solve tickets
 - Practice SLA
 - Resolve common ticket topics
 
