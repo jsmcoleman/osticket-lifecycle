@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle</h1>
-This tutorial outlines the essence of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the working of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
